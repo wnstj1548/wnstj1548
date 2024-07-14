@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <p><strong>Database</strong></p>
     <div>
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-        <img alt="Static Badge" src="https://img.shields.io/badge/%23005571">
+        <img alt="Static Badge" src="https://img.shields.io/badge/%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EElasticsearch%3C%2Ftitle%3E%3Cpath%20d%3D%22M13.394%200C8.683%200%204.609%202.716%202.644%206.667h15.641a4.77%204.77%200%200%200%203.073-1.11c.446-.375.864-.785%201.247-1.243l.001-.002A11.974%2011.974%200%200%200%2013.394%200zM1.804%208.889a12.009%2012.009%200%200%200%200%206.222h14.7a3.111%203.111%200%201%200%200-6.222zm.84%208.444C4.61%2021.283%208.684%2024%2013.395%2024c3.701%200%207.011-1.677%209.212-4.312l-.001-.002a9.958%209.958%200%200%200-1.247-1.243%204.77%204.77%200%200%200-3.073-1.11z%22%2F%3E%3C%2Fsvg%3E">
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
     </div>

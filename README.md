@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 
 ---
-![Junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnstj1548&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnstj1548&layout=compact)
+[![Junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnstj1548&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/wnstj1548/github-readme-stats)
 
 <br>
 
@@ -31,6 +30,10 @@ Here are some ideas to get you started:
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:wnstj377@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://www.instagram.com/seoxunseoo">
+        <img src="https://img.shields.io/badge/
+        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 </div><br>
 

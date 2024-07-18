@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 
 ---
-[![Junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnstj1548&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/wnstj1548/github-readme-stats)
 
 <br>
 

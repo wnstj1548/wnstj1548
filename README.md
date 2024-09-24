@@ -71,7 +71,8 @@ Here are some ideas to get you started:
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
-    <img src= "https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch">
+        <img src= "https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch">
+        <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
     <div>
 </div><br>
 </div>

@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 </p>
 
 ---
+<div align="center">
+  <img src = http://mazassumnida.wtf/api/generate_badge?boj=wnstj1548>
+</div>
 
 <br>
 

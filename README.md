@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 
 ---
 <div align="center">
-  <img src = http://mazassumnida.wtf/api/generate_badge?boj=wnstj1548>
+  
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj1548)](https://solved.ac/wnstj1548)
+  
 </div>
 
 <br>

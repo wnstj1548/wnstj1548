@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 <div align="center">
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj1548)](https://solved.ac/wnstj1548)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnstj1548)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
